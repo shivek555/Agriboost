@@ -1,0 +1,6 @@
+@AgriBoostAPI_HostAddress = http://localhost:5252
+
+GET {{AgriBoostAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
