@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AgriBoostAPI</name>
+    </assembly>
+    <members>
+        <member name="T:AgriBoostAPI.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AgriBoostAPI.Migrations.AddPriceTable">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddPriceTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddPriceTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddPriceTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AgriBoostAPI.Migrations.AddMarketplaceFeature">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddMarketplaceFeature.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddMarketplaceFeature.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddMarketplaceFeature.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AgriBoostAPI.Migrations.FixOrderTable">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.FixOrderTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.FixOrderTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.FixOrderTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AgriBoostAPI.Migrations.AddUsersTable">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUsersTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUsersTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUsersTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AgriBoostAPI.Migrations.AddUserProfiles">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUserProfiles.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUserProfiles.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AgriBoostAPI.Migrations.AddUserProfiles.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

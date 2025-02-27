@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\farmerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\farmerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\buyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\buyerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\sellerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\services\\pricepredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:services\\pricepredictionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\agriboostapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:agriboostapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250223062129_AddOrderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250223062129_AddOrderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\agriboostapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:agriboostapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\pricecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\controllers\\pricepredictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:controllers\\pricepredictioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250220160208_AddPriceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250220160208_AddPriceTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\models\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:models\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\migrations\\20250220160459_addpricetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:migrations\\20250220160459_addpricetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\migrations\\20250223070442_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:migrations\\20250223070442_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|c:\\users\\shivek s mittal\\desktop\\angular\\agriboostapi\\migrations\\20250224055330_adduserprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00382808-59EA-4AE0-B313-C1B6B1580E2A}|AgriBoostAPI.csproj|solutionrelative:migrations\\20250224055330_adduserprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\BuyerProfile.cs",
+              "RelativeDocumentMoniker": "Models\\BuyerProfile.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\BuyerProfile.cs",
+              "RelativeToolTip": "Models\\BuyerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:43:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\SellerProfile.cs",
+              "RelativeDocumentMoniker": "Models\\SellerProfile.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\SellerProfile.cs",
+              "RelativeToolTip": "Models\\SellerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:30:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:26:46.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:29:39.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\PaymentService.cs*",
+              "RelativeToolTip": "Services\\PaymentService.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:09:44.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:48:55.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:49:26.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T04:26:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FarmerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\FarmerProfile.cs",
+              "RelativeDocumentMoniker": "Models\\FarmerProfile.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\FarmerProfile.cs",
+              "RelativeToolTip": "Models\\FarmerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:34:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250224055330_AddUserProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250224055330_AddUserProfiles.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250224055330_AddUserProfiles.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250224055330_AddUserProfiles.cs",
+              "RelativeToolTip": "Migrations\\20250224055330_AddUserProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:53:30.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:00:19.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T16:11:35.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgriBoostAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\AgriBoostAPI.csproj",
+              "RelativeDocumentMoniker": "AgriBoostAPI.csproj",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\AgriBoostAPI.csproj",
+              "RelativeToolTip": "AgriBoostAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T16:12:51.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PricePredictionService.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\PricePredictionService.cs",
+              "RelativeDocumentMoniker": "Services\\PricePredictionService.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\PricePredictionService.cs",
+              "RelativeToolTip": "Services\\PricePredictionService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:53:11.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T07:14:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250223070442_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250223070442_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250223070442_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250223070442_AddUsersTable.cs",
+              "RelativeToolTip": "Migrations\\20250223070442_AddUsersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:04:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:06:44.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:07:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250223062129_AddOrderTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250223062129_AddOrderTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250223062129_AddOrderTable.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250223062129_AddOrderTable.cs",
+              "RelativeToolTip": "Migrations\\20250223062129_AddOrderTable.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:21:29.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T06:19:03.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:13:57.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:19:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Seller.cs",
+              "RelativeToolTip": "Models\\Seller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:13:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA/wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:20:02.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "Models\\Buyer.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Buyer.cs",
+              "RelativeToolTip": "Models\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:14:29.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:19:26.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PriceController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PriceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PriceController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PriceController.cs",
+              "RelativeToolTip": "Controllers\\PriceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:09:14.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250220160459_AddPriceTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250220160459_AddPriceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220160459_AddPriceTable.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250220160459_AddPriceTable.cs",
+              "RelativeToolTip": "Migrations\\20250220160459_AddPriceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:04:59.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AgriBoostAPI",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\AgriBoostAPI.csproj",
+              "RelativeDocumentMoniker": "AgriBoostAPI.csproj",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\AgriBoostAPI.csproj",
+              "RelativeToolTip": "AgriBoostAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T16:11:32.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PricePredictionController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PricePredictionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricePredictionController.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Controllers\\PricePredictionController.cs",
+              "RelativeToolTip": "Controllers\\PricePredictionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:55:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250220160208_AddPriceTable.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250220160208_AddPriceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220160208_AddPriceTable.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Migrations\\20250220160208_AddPriceTable.cs",
+              "RelativeToolTip": "Migrations\\20250220160208_AddPriceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:02:09.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Price.cs",
+              "RelativeDocumentMoniker": "Models\\Price.cs",
+              "ToolTip": "C:\\Users\\Shivek S Mittal\\Desktop\\angular\\AgriBoostAPI\\Models\\Price.cs",
+              "RelativeToolTip": "Models\\Price.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T13:48:31.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
